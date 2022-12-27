@@ -1,0 +1,11 @@
+Tour	Date Time		Check
+13	06.11.2022  18:45	Ajax – PSV Eindhoven	1 : 2
+13	06.11.2022  18:45	Wahlwijk – AZ Alkmaar	3 : 1
+13	06.11.2022  16:30	Twente – Go Ahead Eagles	1 : 1
+13	06.11.2022  16:30	Volendam – Feyenoord	0 : 2
+13	06.11.2022  14:15	Utrecht – Groningen	2 : 1
+13	05.11.2022  23:00	Excelsior - Heerenveen	0 : 1
+13	05.11.2022  20:45	Fortuna - Emmen	0 : 1
+13	05.11.2022  18:30	Vitesse - Sparta	0 : 4
+13	04.11.2022  22:00	Cambuur - NEC Nijmegen	0 : 1
+12	30.10.2022  18:45	AZ Alkmaar – Volendam	2 : 1

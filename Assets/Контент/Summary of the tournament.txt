@@ -1,0 +1,13 @@
+Total matches	306
+Matches played	115	37.6%
+Home wins	48	41.7%
+Draws	27	23.5%
+Away wins	40	34.8%
+Goals scored	359
+Goals scored by hosts	201	56%
+Goals scored by guests	158	44%
+Average goals per game	3.1
+Goals per game (hosts)	1.7
+Average goals per game (away)	1.4
+Viewers total	104 024
+Spectators per game	13 003

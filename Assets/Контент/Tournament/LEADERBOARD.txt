@@ -1,0 +1,19 @@
+No.	Team	Games	Glasses
+1	PSV Eindhoven	13	30
+2	ajax	12	28
+3	Feyenoord	12	27
+4	Twente	13	26
+5	AZ Alkmaar	13	26
+6	Sparta	13	23
+7	Utrecht	13	21
+8	Heerenveen	13	20
+9	Wahlwijk	13	17
+10	NEC Nijmegen	13	14
+11	Go Ahead Eagles	13	14
+12	Excelsior	13	13
+13	Fortune	13	12
+14	Groningen	13	12
+15	Vitesse	12	11
+16	Emmen	13	10
+17	Humpback	12	8
+18	Volendam	13	6

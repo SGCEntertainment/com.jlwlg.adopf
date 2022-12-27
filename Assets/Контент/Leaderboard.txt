@@ -1,0 +1,19 @@
+№	Eredivision	And	AT	H	P	balls	O	% points
+1	PSV Eindhoven	13	10	0	3	42‑19	30	76,9
+2	ajax	12	9	1	2	39‑12	28	77,8
+3	Feyenoord	12	8	3	1	29‑12	27	75,0
+4	Twente	13	8	2	3	23‑8	26	66,7
+5	AZ Alkmaar	13	8	2	3	24‑16	26	66,7
+6	Sparta	13	7	2	4	24‑15	23	59,0
+7	Utrecht	13	6	3	4	19‑21	21	53,8
+8	Heerenveen	13	5	5	3	14‑12	20	51,3
+9	Wahlwijk	13	4	5	4	24‑22	17	43,6
+10	NEC Nijmegen	13	2	8	3	13‑15	14	35,9
+11	Go Ahead Eagles	13	3	5	5	19‑22	14	35,9
+12	Excelsior	13	4	1	8	15‑32	13	33,3
+13	Fortune	13	3	3	7	15‑23	12	30,8
+14	Groningen	13	3	3	7	15‑26	12	30,8
+15	Vitesse	12	3	2	7	13‑26	11	30,6
+16	Emmen	13	2	4	7	10‑24	10	25,6
+17	Humpback	12	2	2	8	8‑19	8	22,2
+18	Volendam	13	1	3	9	13‑35	6	15,4

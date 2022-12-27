@@ -1,0 +1,20 @@
+№	Trainer	DR	Teams	Matches	victories	Draws	Defeat.	Glasses	% points
+1	Keesvan Wonderen	04.01.1969	Heerenveen	13	5	5	3	20	51.28
+2	Rudvan Nistelrooy	01.07.1976	PSV Eindhoven	13	10	0	3	30	76.92
+3	Julio Velazquez	05.10.1981	Fortune	0	0	0	0	0	0.00
+4	Franc Warmth	13.09.1960	Groningen	13	3	3	7	12	30.77
+5	Hankde Jong	27.08.1964	Humpback	12	2	2	8	8	22.22
+6	Dijkhuizen	04.01.1972	Excelsior	13	4	1	8	13	33.33
+7	Vim Yonk	12.10.1966	Volendam	13	1	3	9	6	15.38
+8	Thomas Lech	26.08.1968	Vitesse	12	3	2	7	11	30.56
+9	Dicklyukkin	28.03.1972	Emmen	13	2	4	7	10	25.64
+10	Rogier Meyer	05.09.1981	NEC Nijmegen	13	2	8	3	14	35.90
+11	Joseph Osting	29.01.1973	Wahlwijk	13	4	5	4	17	43.59
+12	Arne Slot	17.09.1978	Feyenoord	12	8	3	1	27	75.00
+13	Maurice Stein	20.11.1973	Sparta	13	7	2	4	23	58.97
+14	Sears Ulte	23.05.1987	Fortune	13	3	3	7	12	30.77
+15	Hank Frazer	07.07.1966	Utrecht	13	6	3	4	21	53.85
+16	Rene Hacks	01.01.1970	Go Ahead Eagles	13	3	5	5	14	35.90
+17	Alfred Schroeder	02.11.1972	ajax	12	9	1	2	28	77.78
+18	Ron Jans	29.09.1958	Twente	13	8	2	3	26	66.67
+19	Pascal Jansen	27.01.1973	AZ Alkmaar	13	8	2	3	26	66.67

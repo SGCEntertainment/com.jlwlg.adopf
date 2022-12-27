@@ -1,0 +1,19 @@
+№	Stadium	City	Capacity	Average	Occupancy, %	Matches
+1	Abe Lenstra	Heerenveen, The Netherlands	26 800	18 020	67.2	6
+2	AFAS	Alkmaar, Netherlands	17 023			6
+3	Woudestain	Rotterdam, Netherlands	3 531			6
+4	Galgenward	Utrecht, The Netherlands	24 426			7
+5	Gelred	Arnhem, The Netherlands	28 278	14 416	51	7
+6	Goffertstadion	Nijmegen, The Netherlands	12 500			6
+7	De Adelaarshorst	Deventer, The Netherlands	10 000	9 711	97.1	7
+8	De Aude Merdeick	Emmen, The Netherlands	8 600	7 946	92.4	6
+9	De Grols Veste	Enschede, The Netherlands	30 205			7
+10	De Kuip (Feyenoord)	Rotterdam, Netherlands	51 577			5
+11	Johan Cruyff Arena	Amsterdam, Netherlands	53 052			6
+12	Humpback	Leeuwarden, The Netherlands	10 250			7
+13	April	Volendam, The Netherlands	7 164			6
+14	Mandemakers	Walwijk, The Netherlands	7 508			7
+15	Sparta	Rotterdam, Netherlands	11 026			7
+16	Phillips	Eindhoven, The Netherlands	35 119			6
+17	Fortuna Sittard	Sittard, The Netherlands	12 500	8 763	70.1	7
+18	Airoborg	Groningen, Netherlands	22 579	18 612	82.4	6

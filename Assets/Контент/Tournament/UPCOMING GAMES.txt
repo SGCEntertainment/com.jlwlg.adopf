@@ -1,0 +1,11 @@
+Tour	Date Time		Check
+12	09.11.2022 22:00	Ajax – Vitesse	– : –
+12	10.11.2022 22:00	Feyenoord - Cambur	– : –
+14	11.11.2022 22:00	Sparta – Twente	– : –
+14	12.11.2022 18:30	Volendam - Utrecht	– : –
+14	12.11.2022 20:45	Emmen – Ajax	– : –
+14	12.11.2022 23:00	PSV Eindhoven - AZ Alkmaar	– : –
+14	13.11.2022 14:15	NEC Nijmegen – Wahlwijk	– : –
+14	13.11.2022 16:30	Groningen – Fortuna	– : –
+14	13.11.2022 16:30	Heerenveen – Cambur	– : –
+14	13.11.2022 18:45	Feyenoord – Excelsior	– : –
